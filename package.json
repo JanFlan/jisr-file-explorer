@@ -10,7 +10,7 @@
     "react-scripts": "^5.0.1",
     "web-vitals": "^4.2.4"
   },
-  "homepage": "https://janflan.github.io/jisr-file-explorer",
+  "homepage": "https://JanFlan.github.io/jisr-file-explorer",
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
