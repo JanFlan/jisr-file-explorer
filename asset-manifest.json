@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/jisr-file-explorer.gitbub.io/static/css/main.e24eb72d.css",
+    "main.js": "/jisr-file-explorer.gitbub.io/static/js/main.83994a00.js",
+    "static/js/488.b89cba19.chunk.js": "/jisr-file-explorer.gitbub.io/static/js/488.b89cba19.chunk.js",
+    "static/media/file.svg": "/jisr-file-explorer.gitbub.io/static/media/file.6996f289443d2dbc26d805d93ea6d323.svg",
+    "static/media/folder-with-files.svg": "/jisr-file-explorer.gitbub.io/static/media/folder-with-files.0ce7a5d49851b63c900cf5b63be93527.svg",
+    "static/media/folder-empty.svg": "/jisr-file-explorer.gitbub.io/static/media/folder-empty.923124186adfcac772ee1a1e0c525a25.svg",
+    "index.html": "/jisr-file-explorer.gitbub.io/index.html",
+    "static/media/chevron-right.svg": "/jisr-file-explorer.gitbub.io/static/media/chevron-right.470ac25c6ce28cf487e1c5735844130f.svg",
+    "static/media/chevron-down.svg": "/jisr-file-explorer.gitbub.io/static/media/chevron-down.05bf07ea4c8f2bf38e7fbef8ebac1a03.svg",
+    "main.e24eb72d.css.map": "/jisr-file-explorer.gitbub.io/static/css/main.e24eb72d.css.map",
+    "main.83994a00.js.map": "/jisr-file-explorer.gitbub.io/static/js/main.83994a00.js.map",
+    "488.b89cba19.chunk.js.map": "/jisr-file-explorer.gitbub.io/static/js/488.b89cba19.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e24eb72d.css",
+    "static/js/main.83994a00.js"
+  ]
+}
