@@ -1,0 +1,8 @@
+.folder-container {
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+    gap: 8px;
+    margin-bottom: 8px;
+}
